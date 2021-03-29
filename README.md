@@ -1,7 +1,7 @@
 # Final-Case-Study-Fake-News-Detector
 
 
-![image.png](attachment:3327c166-4738-475a-9bd4-a8eb1b9cafa9.png)
+![image.png](http://dojo.electrickettle.fr/files/gimgs/304_MatthieuBourel_Casse-Tete.jpg)
 
 ## 1.1 Context
 

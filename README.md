@@ -1,5 +1,5 @@
 # Final-Case-Study-Fake-News-Detector
-
+Time : 5 hours
 
 ![image.png](http://dojo.electrickettle.fr/files/gimgs/304_MatthieuBourel_Casse-Tete.jpg)
 
